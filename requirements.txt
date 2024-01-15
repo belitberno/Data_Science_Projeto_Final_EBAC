@@ -1,4 +1,4 @@
 XlsxWriter
 streamlit
 pandas
-pycaret
+Pycaret
