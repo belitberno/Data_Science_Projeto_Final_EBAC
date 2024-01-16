@@ -4,7 +4,7 @@ import pandas            as pd
 import streamlit         as st
 
 from io                     import BytesIO
-from pycaret.classification import load_model, predict_model
+from pycaret.regression import load_model, predict_model
 
 
 @st.cache_data
